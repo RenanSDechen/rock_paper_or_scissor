@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pedra Papel Tesoura</string>
+    <string name="EscolhaApp">Escolha do app</string>
+    <string name="papel" />
+    <string name="pedra">pedra</string>
+    <string name="tesoura">tesoura</string>
+    <string name="papel2">papel</string>
+    <string name="resultado">resultado</string>
+    <string name="escolha_uma_op_o_abaixo">Escolha uma opção abaixo</string>
+    <string name="placar">Placar:</string>
+    <string name="voc">Você:</string>
+    <string name="android">Android:</string>
+</resources>
